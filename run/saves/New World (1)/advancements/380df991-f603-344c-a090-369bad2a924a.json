@@ -1,0 +1,51 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-10-29 22:19:23 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-10-29 22:25:35 +0300",
+      "minecraft:taiga": "2024-10-29 22:24:29 +0300",
+      "minecraft:beach": "2024-10-29 22:19:57 +0300",
+      "minecraft:dark_forest": "2024-10-29 22:19:24 +0300",
+      "minecraft:cold_ocean": "2024-10-29 22:21:02 +0300",
+      "minecraft:deep_cold_ocean": "2024-10-29 22:26:09 +0300",
+      "minecraft:old_growth_spruce_taiga": "2024-10-29 22:20:04 +0300"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-10-29 22:21:49 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/froglights": {
+    "criteria": {
+      "froglights": "2024-10-29 22:56:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2024-10-29 22:55:42 +0300"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-10-29 22:58:27 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-10-29 22:55:42 +0300"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
